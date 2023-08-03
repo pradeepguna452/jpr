@@ -13,14 +13,13 @@
 
 }
 .row{
-    display: flex;
-
-    
+    display: flex;  
 }
+
 .flex-item{
-   border: 1px solid black;
-   height: 30px;
-   width: 30px;
+   height: auto;
+   width: auto;
+
    padding: auto;
 }
 .container img{
